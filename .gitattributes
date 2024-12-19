@@ -1,0 +1,5 @@
+# Force text files to have LF line endings
+*.txt text eol=lf
+
+# Mark all .png files as binary (Git won't attempt to merge them)
+*.png binary
